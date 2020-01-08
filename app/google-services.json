@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "795686613423",
+    "firebase_url": "https://happybirthdaybuddyy.firebaseio.com",
+    "project_id": "happybirthdaybuddyy",
+    "storage_bucket": "happybirthdaybuddyy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:795686613423:android:cad156d3fc5aec901fbf5a",
+        "android_client_info": {
+          "package_name": "com.geeklabs.happybirthdayy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "795686613423-0v06vkj1vqhd8gktr7hlg2t5mpq6u3gm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.geeklabs.happybirthdayy",
+            "certificate_hash": "a217cbc9456f3d5ed7ceeaa51e95858dfa092de2"
+          }
+        },
+        {
+          "client_id": "795686613423-6aldvbcobnno3m7oilig4flsnp2nf599.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMlUeEsjyaas2k80HqR7vMx_LWhY04ZRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "795686613423-6aldvbcobnno3m7oilig4flsnp2nf599.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
